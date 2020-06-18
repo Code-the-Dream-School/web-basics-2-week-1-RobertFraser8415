@@ -21,9 +21,8 @@ Mentors will be happy to help out and your fellow students will benefit from you
 
 [Report an Issue](https://github.com/CodeTheDream/Web-Basics-2-Week-1/issues)
 
----
 
-## Instructions
+## Instruction
 
 ### Getting Started:
 
